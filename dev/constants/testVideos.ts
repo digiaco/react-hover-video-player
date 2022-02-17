@@ -7,9 +7,9 @@ interface Video {
 const testVideos: Video[] = [
   {
     videoSrc:
-      'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4',
+      'https://spyfilms.gosimian.com/assets/videos/snap___lg-.mp4',
     thumbnailImageSrc:
-      'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg',
+      'https://images.ctfassets.net/hikwoij3uglz/4CUVtkTwDocZ0Axs4b0X9U/30544a7948492fc20215879c9d2b9822/plane-lg.jpg',
   },
   {
     videoSrc:

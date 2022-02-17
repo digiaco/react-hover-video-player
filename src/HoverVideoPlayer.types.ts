@@ -183,7 +183,7 @@ export interface HoverVideoPlayerProps {
    *
    * @defaultValue "anonymous"
    */
-  crossOrigin?: 'anonymous' | 'use-credentials';
+  crossOrigin?: 'anonymous' | 'use-credentials' | 'false';
   /**
    * Sets whether the video element should have the browser's video playback controls enabled.
    * @defaultValue false

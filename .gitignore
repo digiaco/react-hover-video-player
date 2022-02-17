@@ -5,6 +5,7 @@
 /dev/build
 npm-debug.log*
 .DS_Store
+/.husky
 /README.md
 /docs/.vuepress/dist
 /docs/.vuepress/.temp

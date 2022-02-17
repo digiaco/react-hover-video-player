@@ -46,6 +46,7 @@ const TestComponent = ({
         sizingMode="container"
         unloadVideoOnPaused
         restartOnPaused
+        crossOrigin={'false'}
       />
     </ComponentProfiler>
   );

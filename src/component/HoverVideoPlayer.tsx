@@ -208,7 +208,7 @@ const HoverVideoPlayer = ({
         loop={loop && !hasPlaybackRange}
         playsInline
         preload={preload}
-        crossOrigin={crossOrigin}
+        // crossOrigin={crossOrigin}
         ref={videoRef}
         style={{
           ...videoSizingStyles[sizingMode],
